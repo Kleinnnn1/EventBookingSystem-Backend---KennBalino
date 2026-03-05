@@ -16,7 +16,7 @@ Backend API built with Laravel + Sanctum.
 
 ```bash
 # 1. Clone the project
-git clone https://github.com/yourname/event-booking-system.git
+git clone https://github.com/Kleinnnn1/EventBookingSystem-Backend---KennBalino.git
 cd event-booking-system
 
 # 2. Install dependencies
